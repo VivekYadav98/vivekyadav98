@@ -19,9 +19,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekyadav98" alt="vivekyadav98" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yadav_vivek_" target="blank"><img src="https://img.shields.io/twitter/follow/yadav_vivek_?logo=twitter&style=for-the-badge" alt="yadav_vivek_" /></a> </p>
 
 - 🌱 I’m currently learning **....**
 
@@ -55,10 +53,6 @@ Src="http://github-readme-streak-stats.herokuapp.com?user=VivekYadav98&theme=alg
 <p align="center"><img src="https://profile-counter.glitch.me/{VivekYadav98}/count.svg" alt="VivekYadav98 :: Visitor's Count" /></p>
 
 
-
-<h4 align="center">Top langs :tongue:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekYadav98&langs_count=10&theme=tokyonight&layout=compact" alt="VivekYadav98:: Top Langs" /></p>
-<h4 align="center">Profile stats :musical_keyboard:</h4>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VivekYadav98" alt="surbhi09" /></a> </p>
