@@ -41,10 +41,25 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekyadav98&" alt="vivekyadav98" /></p>
  -->
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekYadav98&theme=graywhite&show_icons=true) -->
+<p align="center"> <img
+Src="http://github-readme-streak-stats.herokuapp.com?user=VivekYadav98&theme=algolia&date_format=j%20M%5B%20Y%5D)" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VivekYadav98&theme=tokyonight" />
 
-#### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekYadav98&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-// #### Coding Stats
-// <!--START_SECTION:waka-->
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{VivekYadav98}/count.svg" alt="VivekYadav98 :: Visitor's Count" /></p>
+
+
+
+<h4 align="center">Top langs :tongue:</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekYadav98&langs_count=10&theme=tokyonight&layout=compact" alt="VivekYadav98:: Top Langs" /></p>
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VivekYadav98" alt="surbhi09" /></a> </p>
+
+
