@@ -21,8 +21,8 @@
 
 
 
-
-- 🌱 I’m currently learning **Node.js**
+<!-- 
+- 🌱 I’m currently learning **Node.js** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/VivekYadav98/](https://github.com/VivekYadav98/)
 
