@@ -6,7 +6,6 @@
 
 [![Mail Badge](https://img.shields.io/badge/-Personal-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vivekybdh123@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/-CollegeID-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:20bec069@nith.ac.in)
-
 </p>
 
 
