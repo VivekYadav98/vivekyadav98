@@ -39,17 +39,19 @@
 
 
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekYadav98&theme=graywhite&show_icons=true) -->
+<!-- ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekYadav98&theme=graywhite&show_icons=true) -->
 <p align="center"> <img
 Src="http://github-readme-streak-stats.herokuapp.com?user=VivekYadav98&theme=algolia&date_format=j%20M%5B%20Y%5D)" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VivekYadav98&theme=tokyonight" />
-
+ -->
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{VivekYadav98}/count.svg" alt="VivekYadav98 :: Visitor's Count" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
 
 
 
