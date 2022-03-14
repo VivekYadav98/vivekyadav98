@@ -6,7 +6,10 @@
 
 [![Mail Badge](https://img.shields.io/badge/-Personal-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vivekybdh123@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/-CollegeID-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:20bec069@nith.ac.in)
-![Linkedin](https://img.shields.io/badge/linedin-3C3C3D?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://twitter.com/yadav_vivek_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yadav_vivek_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vivek-yadav-6605a3200?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3boyi99pe5tdktsxndxdjkjg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-yadav-6605a3200?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3boyi99pe5tdktsxndxdjkjg%3d%3d" height="30" width="40" /></a>
+<a href="https://instagram.com/__vivek___98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__vivek___98" height="30" width="40" /></a>
+</p>
 
 
 <!-- TODO: Add last video link -->
