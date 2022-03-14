@@ -6,17 +6,15 @@
 
 [![Mail Badge](https://img.shields.io/badge/-Personal-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vivekybdh123@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/-CollegeID-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:20bec069@nith.ac.in)
-[![Linkedin Badge](https://img.shields.io/badge/-/vivek-yadav-6605a3200-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/vivek-yadav-6605a3200?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTRfd1SJzSaOyQqVvsznnXw%3D%3D/)
+![Linkedin](https://img.shields.io/badge/linedin-3C3C3D?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 <!-- TODO: Add last video link -->
 
 <!-- - 🔭 A passionate Web developer.  -->
-// - 🤔 I’m looking for Full Stack Projects.
 - 🤖 Open Source and Web-development enthusiast.
 - 📫 How to reach me: vivekybdh123@gmail.com.
-// - 😄 Pronouns: kaustubh, verma, kosco.
-// - ⚡ Fun fact: I sit in front of my laptop staring my code and love to play badminton.
+
 
 #### Top Technologies
 
@@ -37,10 +35,3 @@
 
 // #### Coding Stats
 // <!--START_SECTION:waka-->
-
-// ```text
-// C++   3 mins          ████████████████████▓░░░░   83.23 %
-// C     0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   16.77 %
-// ```
-
-// <!--END_SECTION:waka-->
