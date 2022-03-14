@@ -13,7 +13,7 @@
 
 - 🔭 A passionate Web developer. 
 - 🤖 Open Source and Web-development enthusiast.
-- 📫 How to reach me: vivekybdh123@gmail.com.
+
 
 
 
