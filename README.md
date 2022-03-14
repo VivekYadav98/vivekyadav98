@@ -41,6 +41,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekyadav98&" alt="vivekyadav98" /></p>
  -->
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 #### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekYadav98&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
